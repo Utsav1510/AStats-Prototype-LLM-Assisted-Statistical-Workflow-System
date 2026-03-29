@@ -1,0 +1,12 @@
+[project]
+name = "g"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ollamafreeapi>=0.1.4",
+    "pandas>=3.0.1",
+    "requests>=2.33.0",
+    "scipy>=1.17.1",
+]
